@@ -17,6 +17,6 @@
 		"yargs": "^17.7.2"
 	},
 	"bin": {
-		"zandol": "./bin/index.js"
+		"zandol": "index.js"
 	}
 }

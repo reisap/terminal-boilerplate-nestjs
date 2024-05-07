@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { intro, outro, confirm, text, isCancel, cancel } from "@clack/prompts";
 import { getNameProject } from "./startup/name.js";
 
