@@ -1,4 +1,4 @@
-# Create Terminal for speed up node js project es6
+# Create Terminal for speed up nest js project
 
 > terminal for boilerplate nest js
 
